@@ -9,4 +9,3 @@ menu = "main"
 +++
 Press play below and cross your fingers
 <video id="Olivia in Action" src="HTML5olivia_in_action.mov" controls></video>
-#<video controls="controls" name="Olivia in Action" src="http://www.allaboutolivia.site/olivia_in_action.MOV"></video>
