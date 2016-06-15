@@ -7,16 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Tue, 14 Jun 2016 14:07:33 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2016 20:07:33 +0800</lastBuildDate>
     <atom:link href="http://allaboutolivia.site/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mermaids</title>
-      <link>http://allaboutolivia.site/post/mermaids/</link>
-      <pubDate>Tue, 14 Jun 2016 14:07:33 +0800</pubDate>
+      <title>Olivia in Action</title>
+      <link>http://allaboutolivia.site/post/olivia_in_action/</link>
+      <pubDate>Wed, 15 Jun 2016 20:07:33 +0800</pubDate>
       
-      <guid>http://allaboutolivia.site/post/mermaids/</guid>
-      <description>&lt;p&gt;I like Mermaids!&lt;/p&gt;
+      <guid>http://allaboutolivia.site/post/olivia_in_action/</guid>
+      <description>&lt;video controls=&#34;controls&#34; width=&#34;800&#34; height=&#34;600&#34; name=&#34;Olivia in Action&#34; src=&#34;http://www.allaboutolivia.site/olivia_in_action.mov&#34;&gt;&lt;/video&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minecraft Update 0.15</title>
+      <link>http://allaboutolivia.site/post/minecraft_update_0.15/</link>
+      <pubDate>Wed, 15 Jun 2016 14:07:33 +0800</pubDate>
+      
+      <guid>http://allaboutolivia.site/post/minecraft_update_0.15/</guid>
+      <description>&lt;p&gt;I love Minecraft. Yesterday there was an update (0.15) that was really cool.&lt;/p&gt;
+
+&lt;p&gt;They added horses and a lead so you can walk your horse. They also added fire charge which makes a cool fire. Texture packs have also been added and my favourite is called Plastic Texture Pack. But I haven&amp;rsquo;t got it yet because you have to pay for it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;minecraft.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -26,9 +40,11 @@
       <pubDate>Tue, 14 Jun 2016 14:06:47 +0800</pubDate>
       
       <guid>http://allaboutolivia.site/post/welcome/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Olivia. Welcome to my blog!
-I&amp;rsquo;m in year one and I am the second shortest in the class. I like school because I have lots of friends.
-I like to play minecraft. When I am a bit older, I&amp;rsquo;d like to play hockey because it looks fun.
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Olivia. Welcome to my blog!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m in year one and I am the second shortest in the class. I like school because I have lots of friends.&lt;/p&gt;
+
+&lt;p&gt;I like to play minecraft. When I am a bit older, I&amp;rsquo;d like to play hockey because it looks fun.
 &lt;img src=&#34;olivia.jpg&#34; alt=&#34;Me&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
