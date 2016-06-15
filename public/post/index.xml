@@ -17,7 +17,7 @@
       
       <guid>http://allaboutolivia.site/post/olivia_in_action/</guid>
       <description>&lt;p&gt;Press play below and cross your fingers
-&lt;video id=&#34;Olivia in Action&#34; src=&#34;HTML5olivia_in_action.mov&#34; controls&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;video controls=&#34;controls&#34; width=&#34;400&#34; height=&#34;300&#34; name=&#34;Video Name&#34; src=&#34;http://www.allaboutolivia.site/olivia_in_action.mov&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
     
