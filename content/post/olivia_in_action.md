@@ -8,4 +8,5 @@ share = false
 menu = "main"
 +++
 Press play below and cross your fingers
-<video controls="controls" width="400" height="300" name="Video Name" src="http://www.allaboutolivia.site/olivia_in_action.mov"></video>
+
+<video controls="controls" width="400" height="300" name="Olivia in Action" src="http://www.allaboutolivia.site/olivia_in_action.mov"></video>
