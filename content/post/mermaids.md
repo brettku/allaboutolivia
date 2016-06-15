@@ -7,4 +7,4 @@ comments = false
 share = false
 menu = "main"
 +++
-I like Mermaids!
+I like Mermaids.
