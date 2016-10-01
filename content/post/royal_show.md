@@ -4,7 +4,7 @@ draft = false
 title = "Royal Show"
 
 +++
-Nanny and Poppy took me and my sister to the Royal Show.
+Nanny and Poppy took me to the Royal Show.
 
 My favourite showbag was the Zelf bag. I loved the different flavoured milk - my favourite was choc mint. We had to spin the wheel and my sister and I won yoghurt and I won a cow backpack.
 
