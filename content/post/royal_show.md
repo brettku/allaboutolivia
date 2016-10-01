@@ -10,7 +10,7 @@ My favourite showbag was the Zelf bag. I loved the different flavoured milk - my
 
 My favourite animal in the petting zoo was the beautiful soft black rabbit. I had a camel ride, went on the dragon wagon and the ferris wheel at night. We had dinner and I had a small burger and chips and then we watched the fire works.
 
-<video controls="controls" width="400" height="226" name="Dragon Wagon" src="http://www.allaboutolivia.site/dragon_wagon.mp4"></video>
+<video controls="controls" width="226" height="400" name="Dragon Wagon" src="http://www.allaboutolivia.site/dragon_wagon.mp4"></video>
 
 ![](ferris_wheel.JPG)
 ![](beetle_ride.JPG)
